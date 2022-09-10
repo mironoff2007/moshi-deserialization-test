@@ -1,8 +1,8 @@
-package com.melegy.retrofitcoroutines
+package com.mironov.moshideserialization
 
 import com.google.gson.Gson
-import com.melegy.retrofitcoroutines.pojo.TestObjectGson
-import com.melegy.retrofitcoroutines.pojo.TestObjectMoshi
+import com.mironov.moshideserialization.pojo.TestObjectGson
+import com.mironov.moshideserialization.pojo.TestObjectMoshi
 import com.squareup.moshi.JsonAdapter
 import com.squareup.moshi.Moshi
 import org.junit.Before

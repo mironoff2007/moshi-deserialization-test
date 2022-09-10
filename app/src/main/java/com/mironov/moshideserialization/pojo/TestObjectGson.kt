@@ -1,4 +1,4 @@
-package com.melegy.retrofitcoroutines.pojo
+package com.mironov.moshideserialization.pojo
 
 
 import com.google.gson.annotations.SerializedName

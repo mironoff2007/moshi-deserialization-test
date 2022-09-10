@@ -1,4 +1,4 @@
-package com.melegy.retrofitcoroutines.pojo
+package com.mironov.moshideserialization.pojo
 
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonClass
